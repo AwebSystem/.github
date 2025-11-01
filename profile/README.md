@@ -7,4 +7,10 @@
 
   <p>📞Fale com a gente e descubra como podemos transformar suas ideias em soluções!</p>
 
+<div> 
 
+<div align="center">
+  <a href="https://www.instagram.com/aweb.system/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="https://api.whatsapp.com/send?phone=558391459810"><img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
+</div>
+</div>
